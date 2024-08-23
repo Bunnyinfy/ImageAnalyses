@@ -96,5 +96,6 @@ if st.button("Analyze"):
 st.sidebar.title("Example URLs")
 st.sidebar.write("Try these examples:")
 st.sidebar.write("1. https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d")
-st.sidebar.write("2. https://images.unsplash.com/photo-1533236899715-8d7c1de64f1f")
-st.sidebar.write("3. https://images.unsplash.com/photo-1541698444083-023c97d3f4b6")
+st.sidebar.write("2. https://images.unsplash.com/photo-1500463959177-e0869687df26")
+st.sidebar.write("3. https://images.unsplash.com/photo-1631261178062-83006e6256f3")
+
