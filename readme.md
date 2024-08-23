@@ -2,9 +2,9 @@
 <h3>Overview</h3>
 This Python application is used to generate detailed descriptions of artworks from image URLs and categorizes these descriptions based on their emotional tone. 
 <h3>Features</h3>
-Image-to-Text Generation: Converts an image into a descriptive text using a pre-trained model from Hugging Face.
-Emotion Analysis: Categorizes the emotional tone of the generated description (e.g., happy, sad, neutral) using sentiment analysis models.
-Simple Interface: Accepts an image URL as input and provides the generated description along with its emotional tone.
+<p>Image-to-Text Generation: Converts an image into a descriptive text using a pre-trained model from Hugging Face.</p>
+<p>Emotion Analysis: Categorizes the emotional tone of the generated description (e.g., happy, sad, neutral) using sentiment analysis models.</p>
+<p>Simple Interface: Accepts an image URL as input and provides the generated description along with its emotional tone.</p>
 <h3>Prerequisites</h3>
 
 Before running the script, ensure you have the following installed:
