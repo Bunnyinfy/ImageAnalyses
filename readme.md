@@ -14,6 +14,7 @@ Before running the script, ensure you have the following installed:
 Required Python libraries:
 *requests
 
+
 *transformers (from Hugging Face)
 
 *torch (for running models)
@@ -31,7 +32,8 @@ Well known streamlit is used for running this application (i.e to create a user-
 You can paste your image address to fetch the emotion and generate a descriptive caption to it and also in addition we're providing you 3 images for better
 understanding of the project.
 <h2>Interface</h2>
-![image](https://github.com/user-attachments/assets/974de246-5762-4a14-a9ee-d2ecd21b4cdd)
+![interface](https://github.com/user-attachments/assets/3d8c749b-276d-4c98-adba-f5694d0b23bb)
+
 
 
 <h3>OutputSamp1</h3>
