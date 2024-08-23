@@ -10,11 +10,16 @@ Simple Interface: Accepts an image URL as input and provides the generated descr
 Before running the script, ensure you have the following installed:
 
 *Python 3.7 or higher
+
 Required Python libraries:
 *requests
+
 *transformers (from Hugging Face)
+
 *torch (for running models)
+
 *Pillow (for image processing)
+
 
 You can install the necessary packages using the command: <h3>pip install -r requirements.txt</h3>
 
