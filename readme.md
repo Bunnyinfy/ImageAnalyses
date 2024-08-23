@@ -42,7 +42,7 @@ understanding of the project.
 
 
 <h3>OutputSamp2</h3>
-![OutputSamp2](images/interface.png)
+![OutputSamp2](images/op2.png)
 
 <h3>OutputSamp3</h3>
-![OutputSamp3](images/interface.png)
+![OutputSamp3](images/op3.png)
