@@ -32,17 +32,19 @@ Well known streamlit is used for running this application (i.e to create a user-
 You can paste your image address to fetch the emotion and generate a descriptive caption to it and also in addition we're providing you 3 images for better
 understanding of the project.
 <h2>Interface</h2>
-![Interface](images/interface.png)
+<img src = "images/interface.png" alt = "interface">
 
 
 
 <h3>OutputSamp1</h3>
-![OutputSamp1](images/op1.png)
+<img src = "images/op1.png" alt = "op1">
 
 
 
 <h3>OutputSamp2</h3>
-![OutputSamp2](images/op2.png)
+<img src = "images/op2.png" alt = "op2">
 
 <h3>OutputSamp3</h3>
-![OutputSamp3](images/op3.png)
+<img src = "images/op3.png" alt = "op3">
+
+
