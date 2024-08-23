@@ -73,7 +73,7 @@ def analyze_emotion(description):
 
 
 # Streamlit Interface
-st.title("Sri's Image Analyzer with CNN for SA")
+st.title("AI-Powered Artwork Description and Emotion Categorization")
 
 image_url = st.text_input("Enter the Image URL:")
 
