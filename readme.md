@@ -30,3 +30,14 @@ Well known streamlit is used for running this application (i.e to create a user-
 <h1> Output Samples </h1>
 You can paste your image address to fetch the emotion and generate a descriptive caption to it and also in addition we're providing you 3 images for better
 understanding of the project.
+<h2>Interface</h2>
+![image](https://github.com/user-attachments/assets/974de246-5762-4a14-a9ee-d2ecd21b4cdd)
+
+
+<h3>OutputSamp1</h3>
+
+
+
+<h3>OutputSamp2</h3>
+
+<h3>OutputSamp3</h3>
